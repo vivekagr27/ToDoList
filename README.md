@@ -7,6 +7,6 @@
 2. npm install (Installing all the dependencies)
 3. mongod (Starting the local MongoDB database server)
 4. mongo (Connecting the node application to the local database)
-5. npm start (Starting the NodeJS server)
-Now, copy the url - [http://127.0.0.1:3000/]"http://127.0.0.1:3000/" in your browser to run the web application in it
+5. npm start (Starting the NodeJS server)\
+Now, copy the url - [http://127.0.0.1:3000/]("http://127.0.0.1:3000/") in your browser to run the web application in it
 
