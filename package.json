@@ -1,0 +1,21 @@
+{
+    "name": "todo-list-master",
+    "version": "1.0.0",
+    "description": "It is a todo list web application using HTML,CSS,JavaScript,Nodejs,express,MongoDB,mongoose User can create multiple to-do lists, add new tasks into respective to-do lists and also delete the tasks which are completed.",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app"
+    },
+    "author": "Vivek Agrawal",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.20.0",
+        "ejs": "^3.1.8",
+        "express": "^4.18.1",
+        "lodash": "^4.17.21",
+        "modules": "^0.4.0",
+        "mongoose": "^6.4.2",
+        "node": "^18.4.0"
+    }
+}
